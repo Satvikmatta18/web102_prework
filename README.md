@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-!(Web102-codepath-prework.gif)
+!![Video Walkthrough](web102-prework.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
